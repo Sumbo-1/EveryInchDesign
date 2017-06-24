@@ -283,7 +283,7 @@ nav a:hover {
 }
 ul.made-with {
   margin: 0 auto;
-  padding: 1.3em 8.5em;
+  padding: 1.3em 6.5em;
   text-align: left;
 }
 ul.made-with li {
@@ -293,6 +293,7 @@ ul.made-with li {
   font-weight: 300;
   color: #666;
   line-height: 1.1em;
+  margin-left: 2em;
 }
 ul.made-with li:before {
   content: "\2022";
